@@ -4,9 +4,10 @@
 *KEYWORDS:* 
 > var <br>
 > let <br>
-> const
+> const <br>
 
-**DATA TYPES** <br>
+|**DATA TYPES**                                                       |
+|------------|--------------------------------------------------------|
 |Number      |1, 2, 3, 100, 3.14                                      |
 |String      |'hello, world' "jon@gmail.com"                          |
 |Boolean     |true / false                                            |
