@@ -6,13 +6,13 @@
 > let <br>
 > const <br>
 
-|**DATA TYPES**                                                       |
-|------------|--------------------------------------------------------|
-|Number      |1, 2, 3, 100, 3.14                                      |
-|String      |'hello, world' "jon@gmail.com"                          |
-|Boolean     |true / false                                            |
-|Null        |Explicitly set a variable w/ no value                   |
-|Undefined   |For variables that have not yet been defined            |
-|Object      |Complex data structures - Arrays, dates, Literals etc   |
-|Symbol      |Used with objects                                       |
+|**DATA TYPES** |*EXAMPLES*                                            |
+|---------------|------------------------------------------------------|
+|Number         |1, 2, 3, 100, 3.14                                    |
+|String         |'hello, world' "jon@gmail.com"                        |
+|Boolean        |true / false                                          |
+|Null           |Explicitly set a variable w/ no value                 |
+|Undefined      |For variables that have not yet been defined          |
+|Object         |Complex data structures - Arrays, dates, Literals etc |
+|Symbol         |Used with objects                                     |
 
