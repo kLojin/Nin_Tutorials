@@ -15,4 +15,12 @@
 |Undefined      |For variables that have not yet been defined          |
 |Object         |Complex data structures - Arrays, dates, Literals etc |
 |Symbol         |Used with objects                                     |
-
+<br>
+---
+### For Loop
+Cycling through an array/data is *"Iteration"*.<br>
+Each iteration is one cycle through.<br>
+Every time we perform a code block = 1 iteration through the data.
+### While Loop
+alternative to **For Loop**<br>
+####(Do while loops)
